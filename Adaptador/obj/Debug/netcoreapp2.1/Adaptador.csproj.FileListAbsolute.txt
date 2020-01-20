@@ -1,0 +1,11 @@
+C:\BOT\Cursos\Patrones\Adaptador\Adaptador\Adaptador\bin\Debug\netcoreapp2.1\Adaptador.deps.json
+C:\BOT\Cursos\Patrones\Adaptador\Adaptador\Adaptador\bin\Debug\netcoreapp2.1\Adaptador.runtimeconfig.json
+C:\BOT\Cursos\Patrones\Adaptador\Adaptador\Adaptador\bin\Debug\netcoreapp2.1\Adaptador.runtimeconfig.dev.json
+C:\BOT\Cursos\Patrones\Adaptador\Adaptador\Adaptador\bin\Debug\netcoreapp2.1\Adaptador.dll
+C:\BOT\Cursos\Patrones\Adaptador\Adaptador\Adaptador\obj\Debug\netcoreapp2.1\Adaptador.csprojAssemblyReference.cache
+C:\BOT\Cursos\Patrones\Adaptador\Adaptador\Adaptador\obj\Debug\netcoreapp2.1\Adaptador.csproj.CoreCompileInputs.cache
+C:\BOT\Cursos\Patrones\Adaptador\Adaptador\Adaptador\obj\Debug\netcoreapp2.1\Adaptador.AssemblyInfoInputs.cache
+C:\BOT\Cursos\Patrones\Adaptador\Adaptador\Adaptador\obj\Debug\netcoreapp2.1\Adaptador.AssemblyInfo.cs
+C:\BOT\Cursos\Patrones\Adaptador\Adaptador\Adaptador\bin\Debug\netcoreapp2.1\Adaptador.pdb
+C:\BOT\Cursos\Patrones\Adaptador\Adaptador\Adaptador\obj\Debug\netcoreapp2.1\Adaptador.dll
+C:\BOT\Cursos\Patrones\Adaptador\Adaptador\Adaptador\obj\Debug\netcoreapp2.1\Adaptador.pdb
